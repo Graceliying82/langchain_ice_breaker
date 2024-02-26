@@ -17,6 +17,7 @@ python-dotenv = "*"
 langchain-community = "*"
 pydantic = "==v1.10.13"
 langchain-core = "*"
+langchainhub = "*"
 
 [dev-packages]
 
